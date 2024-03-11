@@ -1,0 +1,23 @@
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/bin/Release/net6.0/Viacep.Application.deps.json
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/bin/Release/net6.0/Viacep.Application.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/bin/Release/net6.0/Viacep.Application.pdb
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/bin/Release/net6.0/Viacep.Domain.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/bin/Release/net6.0/Viacep.Infrastructure.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/bin/Release/net6.0/Viacep.Domain.pdb
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/bin/Release/net6.0/Viacep.Infrastructure.pdb
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/obj/Release/net6.0/Viacep.Application.csproj.AssemblyReference.cache
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/obj/Release/net6.0/Viacep.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/obj/Release/net6.0/Viacep.Application.AssemblyInfoInputs.cache
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/obj/Release/net6.0/Viacep.Application.AssemblyInfo.cs
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/obj/Release/net6.0/Viacep.Application.csproj.CoreCompileInputs.cache
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/obj/Release/net6.0/Viacep.Application.csproj.CopyComplete
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/obj/Release/net6.0/Viacep.Application.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/obj/Release/net6.0/refint/Viacep.Application.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/obj/Release/net6.0/Viacep.Application.pdb
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/obj/Release/net6.0/ref/Viacep.Application.dll
+C:/app/build/Viacep.Application.deps.json
+C:/app/build/Viacep.Application.dll
+C:/app/build/Viacep.Application.pdb
+/mnt/c/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/obj/Release/net6.0/Viacep.Application.dll
+/mnt/c/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/obj/Release/net6.0/refint/Viacep.Application.dll
+/mnt/c/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/Viacep.Application/obj/Release/net6.0/Viacep.Application.pdb

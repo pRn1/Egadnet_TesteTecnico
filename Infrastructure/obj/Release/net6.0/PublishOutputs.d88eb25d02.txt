@@ -1,0 +1,3 @@
+C:\Users\lucas\Documents\Teste Tecnico\ViacepEgadnet\Viacep.Infrastructure\bin\Release\net6.0\publish\Viacep.Infrastructure.dll
+C:\Users\lucas\Documents\Teste Tecnico\ViacepEgadnet\Viacep.Infrastructure\bin\Release\net6.0\publish\Viacep.Infrastructure.deps.json
+C:\Users\lucas\Documents\Teste Tecnico\ViacepEgadnet\Viacep.Infrastructure\bin\Release\net6.0\publish\Viacep.Infrastructure.pdb

@@ -1,0 +1,59 @@
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/appsettings.Development.json
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/appsettings.json
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/ViacepEgadnet.exe
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/ViacepEgadnet.deps.json
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/ViacepEgadnet.runtimeconfig.json
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/ViacepEgadnet.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/ViacepEgadnet.pdb
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/AutoMapper.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Microsoft.OpenApi.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Viacep.Application.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Viacep.Domain.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Viacep.Infrastructure.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Viacep.Application.pdb
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Viacep.Domain.pdb
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/bin/Release/net6.0/Viacep.Infrastructure.pdb
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/ViacepEgadnet.csproj.AssemblyReference.cache
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/ViacepEgadnet.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/ViacepEgadnet.AssemblyInfoInputs.cache
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/ViacepEgadnet.AssemblyInfo.cs
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/ViacepEgadnet.csproj.CoreCompileInputs.cache
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/ViacepEgadnet.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/ViacepEgadnet.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/staticwebassets.build.json
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/staticwebassets.development.json
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/scopedcss/bundle/ViacepEgadnet.styles.css
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/ViacepEgadnet.csproj.CopyComplete
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/ViacepEgadnet.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/refint/ViacepEgadnet.dll
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/ViacepEgadnet.pdb
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/ViacepEgadnet.genruntimeconfig.cache
+C:/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/ref/ViacepEgadnet.dll
+C:/app/build/appsettings.Development.json
+C:/app/build/appsettings.json
+C:/app/build/ViacepEgadnet.exe
+C:/app/build/ViacepEgadnet.deps.json
+C:/app/build/ViacepEgadnet.runtimeconfig.json
+C:/app/build/ViacepEgadnet.dll
+C:/app/build/ViacepEgadnet.pdb
+/mnt/c/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/ViacepEgadnet.dll
+/mnt/c/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/refint/ViacepEgadnet.dll
+/mnt/c/Users/lucas/Documents/Teste Tecnico/ViacepEgadnet/ViacepEgadnet/obj/Release/net6.0/ViacepEgadnet.pdb
